@@ -28,7 +28,7 @@ for h in heroes:
     attr = h.get("attributes", {})
     main_skill = h.get("mainSkill", {})
     self_skill = h.get("selfSkill", {})
-    exchange_skill = h.get("exchangeSkill", {})
+    exchange_skill = h.get("exchangeSkill") or {}
     records.append({
         "编号": h["id"],
         "武将名": h["name"],
