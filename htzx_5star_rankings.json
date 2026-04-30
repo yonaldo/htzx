@@ -1,0 +1,878 @@
+{
+  "force": {
+    "label": "武力",
+    "emoji": "⚔️",
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "吕布",
+        "faction": "群",
+        "base": 137.9,
+        "growth": 3
+      },
+      {
+        "rank": 2,
+        "name": "SP吕布",
+        "faction": "群",
+        "base": 137.9,
+        "growth": 3
+      },
+      {
+        "rank": 3,
+        "name": "颜良",
+        "faction": "群",
+        "base": 128.5,
+        "growth": 2.5
+      },
+      {
+        "rank": 4,
+        "name": "SP赵云",
+        "faction": "蜀",
+        "base": 125.3,
+        "growth": 2.8
+      },
+      {
+        "rank": 5,
+        "name": "文丑",
+        "faction": "群",
+        "base": 123.9,
+        "growth": 2.5
+      },
+      {
+        "rank": 6,
+        "name": "XP文丑",
+        "faction": "群",
+        "base": 123.9,
+        "growth": 2.5
+      },
+      {
+        "rank": 7,
+        "name": "关羽",
+        "faction": "蜀",
+        "base": 123.5,
+        "growth": 2.7
+      },
+      {
+        "rank": 8,
+        "name": "SP关羽",
+        "faction": "蜀",
+        "base": 123.5,
+        "growth": 2.7
+      },
+      {
+        "rank": 9,
+        "name": "赵云",
+        "faction": "蜀",
+        "base": 123.3,
+        "growth": 2.7
+      },
+      {
+        "rank": 10,
+        "name": "群赵云",
+        "faction": "群",
+        "base": 123.3,
+        "growth": 2.7
+      },
+      {
+        "rank": 11,
+        "name": "SP黄忠",
+        "faction": "蜀",
+        "base": 123.1,
+        "growth": 2.5
+      },
+      {
+        "rank": 12,
+        "name": "黄忠",
+        "faction": "蜀",
+        "base": 123.1,
+        "growth": 2.5
+      },
+      {
+        "rank": 13,
+        "name": "SP甘宁",
+        "faction": "吴",
+        "base": 122.6,
+        "growth": 2.7
+      },
+      {
+        "rank": 14,
+        "name": "甘宁",
+        "faction": "吴",
+        "base": 122.6,
+        "growth": 2.7
+      },
+      {
+        "rank": 15,
+        "name": "群甘宁",
+        "faction": "群",
+        "base": 122.6,
+        "growth": 2.7
+      },
+      {
+        "rank": 16,
+        "name": "兀突骨（名将）",
+        "faction": "群",
+        "base": 122.6,
+        "growth": 2.7
+      },
+      {
+        "rank": 17,
+        "name": "关银屏",
+        "faction": "蜀",
+        "base": 122.5,
+        "growth": 2.6
+      },
+      {
+        "rank": 18,
+        "name": "SP关银屏",
+        "faction": "蜀",
+        "base": 122.5,
+        "growth": 2.6
+      },
+      {
+        "rank": 19,
+        "name": "关索",
+        "faction": "蜀",
+        "base": 122.1,
+        "growth": 2.6
+      },
+      {
+        "rank": 20,
+        "name": "夏侯惇",
+        "faction": "魏",
+        "base": 121.9,
+        "growth": 2.5
+      }
+    ]
+  },
+  "defense": {
+    "label": "防御",
+    "emoji": "🛡️",
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "SP黄盖",
+        "faction": "吴",
+        "base": 127.6,
+        "growth": 2.7
+      },
+      {
+        "rank": 2,
+        "name": "黄盖",
+        "faction": "吴",
+        "base": 127.6,
+        "growth": 2.7
+      },
+      {
+        "rank": 3,
+        "name": "SP周泰",
+        "faction": "吴",
+        "base": 123.6,
+        "growth": 2.6
+      },
+      {
+        "rank": 4,
+        "name": "周泰",
+        "faction": "吴",
+        "base": 123.6,
+        "growth": 2.6
+      },
+      {
+        "rank": 5,
+        "name": "曹仁",
+        "faction": "魏",
+        "base": 122.7,
+        "growth": 2.8
+      },
+      {
+        "rank": 6,
+        "name": "SP曹仁",
+        "faction": "魏",
+        "base": 122.7,
+        "growth": 2.8
+      },
+      {
+        "rank": 7,
+        "name": "徐盛",
+        "faction": "吴",
+        "base": 122.5,
+        "growth": 2.6
+      },
+      {
+        "rank": 8,
+        "name": "SP徐盛",
+        "faction": "吴",
+        "base": 122.5,
+        "growth": 2.6
+      },
+      {
+        "rank": 9,
+        "name": "董卓",
+        "faction": "群",
+        "base": 120.5,
+        "growth": 2.7
+      },
+      {
+        "rank": 10,
+        "name": "马腾",
+        "faction": "群",
+        "base": 119.6,
+        "growth": 2.1
+      },
+      {
+        "rank": 11,
+        "name": "郭淮",
+        "faction": "魏",
+        "base": 118.7,
+        "growth": 2.3
+      },
+      {
+        "rank": 12,
+        "name": "SP孙策",
+        "faction": "吴",
+        "base": 118.4,
+        "growth": 1.6
+      },
+      {
+        "rank": 13,
+        "name": "孙策",
+        "faction": "吴",
+        "base": 118.4,
+        "growth": 1.6
+      },
+      {
+        "rank": 14,
+        "name": "满宠",
+        "faction": "魏",
+        "base": 118.1,
+        "growth": 2.8
+      },
+      {
+        "rank": 15,
+        "name": "SP许褚",
+        "faction": "魏",
+        "base": 118,
+        "growth": 1.6
+      },
+      {
+        "rank": 16,
+        "name": "许褚",
+        "faction": "魏",
+        "base": 118,
+        "growth": 1.6
+      },
+      {
+        "rank": 17,
+        "name": "主公",
+        "faction": "群",
+        "base": 117.4,
+        "growth": 2.2
+      },
+      {
+        "rank": 18,
+        "name": "朱儁",
+        "faction": "群",
+        "base": 117.1,
+        "growth": 1.8
+      },
+      {
+        "rank": 19,
+        "name": "皇甫嵩",
+        "faction": "群",
+        "base": 116.1,
+        "growth": 1.7
+      },
+      {
+        "rank": 20,
+        "name": "司马昭",
+        "faction": "魏",
+        "base": 115.8,
+        "growth": 1.7
+      }
+    ]
+  },
+  "intellect": {
+    "label": "智力",
+    "emoji": "📖",
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "诸葛亮",
+        "faction": "蜀",
+        "base": 137.5,
+        "growth": 3
+      },
+      {
+        "rank": 2,
+        "name": "SP诸葛亮",
+        "faction": "蜀",
+        "base": 137.5,
+        "growth": 3
+      },
+      {
+        "rank": 3,
+        "name": "司马懿",
+        "faction": "魏",
+        "base": 131.5,
+        "growth": 2.8
+      },
+      {
+        "rank": 4,
+        "name": "SP司马懿",
+        "faction": "魏",
+        "base": 131.5,
+        "growth": 2.8
+      },
+      {
+        "rank": 5,
+        "name": "司马昭",
+        "faction": "魏",
+        "base": 128,
+        "growth": 2.7
+      },
+      {
+        "rank": 6,
+        "name": "XP司马昭",
+        "faction": "魏",
+        "base": 128,
+        "growth": 2.7
+      },
+      {
+        "rank": 7,
+        "name": "SP司马昭",
+        "faction": "魏",
+        "base": 128,
+        "growth": 2.7
+      },
+      {
+        "rank": 8,
+        "name": "张昭",
+        "faction": "吴",
+        "base": 127.5,
+        "growth": 2.3
+      },
+      {
+        "rank": 9,
+        "name": "周瑜",
+        "faction": "吴",
+        "base": 127.2,
+        "growth": 2.7
+      },
+      {
+        "rank": 10,
+        "name": "SP周瑜",
+        "faction": "吴",
+        "base": 127.2,
+        "growth": 2.7
+      },
+      {
+        "rank": 11,
+        "name": "左慈",
+        "faction": "群",
+        "base": 126.2,
+        "growth": 2.5
+      },
+      {
+        "rank": 12,
+        "name": "郭嘉",
+        "faction": "魏",
+        "base": 126,
+        "growth": 2.7
+      },
+      {
+        "rank": 13,
+        "name": "SP郭嘉",
+        "faction": "魏",
+        "base": 126,
+        "growth": 2.7
+      },
+      {
+        "rank": 14,
+        "name": "SP张仲景",
+        "faction": "群",
+        "base": 125.1,
+        "growth": 2.5
+      },
+      {
+        "rank": 15,
+        "name": "张仲景",
+        "faction": "群",
+        "base": 125.1,
+        "growth": 2.5
+      },
+      {
+        "rank": 16,
+        "name": "陆逊",
+        "faction": "吴",
+        "base": 125,
+        "growth": 2.6
+      },
+      {
+        "rank": 17,
+        "name": "sp陆逊",
+        "faction": "吴",
+        "base": 125,
+        "growth": 2.6
+      },
+      {
+        "rank": 18,
+        "name": "张春华",
+        "faction": "魏",
+        "base": 123.9,
+        "growth": 2.8
+      },
+      {
+        "rank": 19,
+        "name": "SP华佗",
+        "faction": "群",
+        "base": 123.3,
+        "growth": 2.5
+      },
+      {
+        "rank": 20,
+        "name": "华佗",
+        "faction": "群",
+        "base": 123.3,
+        "growth": 2.5
+      }
+    ]
+  },
+  "speed": {
+    "label": "攻速",
+    "emoji": "⚡",
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "吕布",
+        "faction": "群",
+        "base": 135.1,
+        "growth": 2.04
+      },
+      {
+        "rank": 2,
+        "name": "SP吕布",
+        "faction": "群",
+        "base": 135.1,
+        "growth": 2.04
+      },
+      {
+        "rank": 3,
+        "name": "诸葛亮",
+        "faction": "蜀",
+        "base": 134.38,
+        "growth": 1.8
+      },
+      {
+        "rank": 4,
+        "name": "SP诸葛亮",
+        "faction": "蜀",
+        "base": 134.38,
+        "growth": 1.8
+      },
+      {
+        "rank": 5,
+        "name": "赵云",
+        "faction": "蜀",
+        "base": 132.46,
+        "growth": 3
+      },
+      {
+        "rank": 6,
+        "name": "群赵云",
+        "faction": "群",
+        "base": 132.46,
+        "growth": 3
+      },
+      {
+        "rank": 7,
+        "name": "张郃",
+        "faction": "魏",
+        "base": 128.67,
+        "growth": 2.7
+      },
+      {
+        "rank": 8,
+        "name": "SP张郃",
+        "faction": "魏",
+        "base": 128.67,
+        "growth": 2.7
+      },
+      {
+        "rank": 9,
+        "name": "SP张仲景",
+        "faction": "群",
+        "base": 125.1,
+        "growth": 2.2
+      },
+      {
+        "rank": 10,
+        "name": "张仲景",
+        "faction": "群",
+        "base": 125.1,
+        "growth": 1.9
+      },
+      {
+        "rank": 11,
+        "name": "张昭",
+        "faction": "吴",
+        "base": 124.38,
+        "growth": 1.7
+      },
+      {
+        "rank": 12,
+        "name": "魏关羽",
+        "faction": "魏",
+        "base": 122.23,
+        "growth": 2.62
+      },
+      {
+        "rank": 13,
+        "name": "司马懿",
+        "faction": "魏",
+        "base": 122.03,
+        "growth": 2.2
+      },
+      {
+        "rank": 14,
+        "name": "SP司马懿",
+        "faction": "魏",
+        "base": 122.03,
+        "growth": 2.2
+      },
+      {
+        "rank": 15,
+        "name": "马腾",
+        "faction": "群",
+        "base": 121.79,
+        "growth": 2.5
+      },
+      {
+        "rank": 16,
+        "name": "SP马超",
+        "faction": "蜀",
+        "base": 121.25,
+        "growth": 2.85
+      },
+      {
+        "rank": 17,
+        "name": "马超",
+        "faction": "蜀",
+        "base": 121.25,
+        "growth": 2.85
+      },
+      {
+        "rank": 18,
+        "name": "左慈",
+        "faction": "群",
+        "base": 121.21,
+        "growth": 1.34
+      },
+      {
+        "rank": 19,
+        "name": "马云禄",
+        "faction": "蜀",
+        "base": 121.13,
+        "growth": 2.58
+      },
+      {
+        "rank": 20,
+        "name": "SP马云禄",
+        "faction": "蜀",
+        "base": 121.13,
+        "growth": 2.58
+      }
+    ]
+  },
+  "politics": {
+    "label": "政治",
+    "emoji": "📜",
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "司马懿",
+        "faction": "魏",
+        "base": 116.2,
+        "growth": 2.6
+      },
+      {
+        "rank": 2,
+        "name": "SP司马懿",
+        "faction": "魏",
+        "base": 116.2,
+        "growth": 2.6
+      },
+      {
+        "rank": 3,
+        "name": "张昭",
+        "faction": "吴",
+        "base": 111.9,
+        "growth": 2.4
+      },
+      {
+        "rank": 4,
+        "name": "诸葛亮",
+        "faction": "蜀",
+        "base": 109.9,
+        "growth": 2.4
+      },
+      {
+        "rank": 5,
+        "name": "SP诸葛亮",
+        "faction": "蜀",
+        "base": 109.9,
+        "growth": 2.4
+      },
+      {
+        "rank": 6,
+        "name": "孙鲁班",
+        "faction": "吴",
+        "base": 108.4,
+        "growth": 2
+      },
+      {
+        "rank": 7,
+        "name": "SP孙鲁班",
+        "faction": "吴",
+        "base": 108.4,
+        "growth": 2
+      },
+      {
+        "rank": 8,
+        "name": "鲁肃",
+        "faction": "吴",
+        "base": 108.2,
+        "growth": 2.5
+      },
+      {
+        "rank": 9,
+        "name": "SP荀彧",
+        "faction": "魏",
+        "base": 107.9,
+        "growth": 2.3
+      },
+      {
+        "rank": 10,
+        "name": "荀彧",
+        "faction": "魏",
+        "base": 107.9,
+        "growth": 2.3
+      },
+      {
+        "rank": 11,
+        "name": "司马师",
+        "faction": "魏",
+        "base": 106.2,
+        "growth": 1.8
+      },
+      {
+        "rank": 12,
+        "name": "SP司马师",
+        "faction": "魏",
+        "base": 106.2,
+        "growth": 1.8
+      },
+      {
+        "rank": 13,
+        "name": "陆逊",
+        "faction": "吴",
+        "base": 106.1,
+        "growth": 2
+      },
+      {
+        "rank": 14,
+        "name": "sp陆逊",
+        "faction": "吴",
+        "base": 106.1,
+        "growth": 2
+      },
+      {
+        "rank": 15,
+        "name": "糜竺（名将）",
+        "faction": "蜀",
+        "base": 105.9,
+        "growth": 1.9
+      },
+      {
+        "rank": 16,
+        "name": "SP鲁肃",
+        "faction": "吴",
+        "base": 105.8,
+        "growth": 2.3
+      },
+      {
+        "rank": 17,
+        "name": "卢植",
+        "faction": "群",
+        "base": 105.4,
+        "growth": 2.1
+      },
+      {
+        "rank": 18,
+        "name": "庞统",
+        "faction": "蜀",
+        "base": 104.9,
+        "growth": 2.1
+      },
+      {
+        "rank": 19,
+        "name": "SP庞统",
+        "faction": "蜀",
+        "base": 104.9,
+        "growth": 2.1
+      },
+      {
+        "rank": 20,
+        "name": "曹操",
+        "faction": "魏",
+        "base": 104.5,
+        "growth": 2.1
+      }
+    ]
+  },
+  "charm": {
+    "label": "魅力",
+    "emoji": "✨",
+    "ranking": [
+      {
+        "rank": 1,
+        "name": "张春华",
+        "faction": "魏",
+        "base": 130.2,
+        "growth": 2.8
+      },
+      {
+        "rank": 2,
+        "name": "郭嘉",
+        "faction": "魏",
+        "base": 127.1,
+        "growth": 2.7
+      },
+      {
+        "rank": 3,
+        "name": "SP郭嘉",
+        "faction": "魏",
+        "base": 127.1,
+        "growth": 2.7
+      },
+      {
+        "rank": 4,
+        "name": "SP甄姬",
+        "faction": "魏",
+        "base": 125.4,
+        "growth": 2.6
+      },
+      {
+        "rank": 5,
+        "name": "甄姬",
+        "faction": "魏",
+        "base": 125.4,
+        "growth": 2.6
+      },
+      {
+        "rank": 6,
+        "name": "貂蝉",
+        "faction": "群",
+        "base": 124.1,
+        "growth": 2.6
+      },
+      {
+        "rank": 7,
+        "name": "SP貂蝉",
+        "faction": "群",
+        "base": 124.1,
+        "growth": 2.6
+      },
+      {
+        "rank": 8,
+        "name": "荀攸（名将）",
+        "faction": "魏",
+        "base": 123.1,
+        "growth": 1.8
+      },
+      {
+        "rank": 9,
+        "name": "诸葛亮",
+        "faction": "蜀",
+        "base": 121.4,
+        "growth": 2.6
+      },
+      {
+        "rank": 10,
+        "name": "SP诸葛亮",
+        "faction": "蜀",
+        "base": 121.4,
+        "growth": 2.6
+      },
+      {
+        "rank": 11,
+        "name": "SP小乔",
+        "faction": "吴",
+        "base": 119.6,
+        "growth": 2.8
+      },
+      {
+        "rank": 12,
+        "name": "小乔",
+        "faction": "吴",
+        "base": 119.6,
+        "growth": 2.8
+      },
+      {
+        "rank": 13,
+        "name": "董白",
+        "faction": "群",
+        "base": 117.1,
+        "growth": 2.3
+      },
+      {
+        "rank": 14,
+        "name": "司马昭",
+        "faction": "魏",
+        "base": 116.1,
+        "growth": 2.5
+      },
+      {
+        "rank": 15,
+        "name": "XP司马昭",
+        "faction": "魏",
+        "base": 116.1,
+        "growth": 2.5
+      },
+      {
+        "rank": 16,
+        "name": "SP司马昭",
+        "faction": "魏",
+        "base": 116.1,
+        "growth": 2.5
+      },
+      {
+        "rank": 17,
+        "name": "王元姬",
+        "faction": "魏",
+        "base": 115,
+        "growth": 2.4
+      },
+      {
+        "rank": 18,
+        "name": "XP王元姬",
+        "faction": "魏",
+        "base": 115,
+        "growth": 2.4
+      },
+      {
+        "rank": 19,
+        "name": "何太后",
+        "faction": "群",
+        "base": 113.9,
+        "growth": 2.3
+      },
+      {
+        "rank": 20,
+        "name": "步练师",
+        "faction": "吴",
+        "base": 113.8,
+        "growth": 2.5
+      }
+    ]
+  }
+}
